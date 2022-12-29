@@ -14,9 +14,8 @@
 
   - nested lists are an option for indented sub lists.
   
-- to include links: 
+- to include links:
 
 > `[Page Name](https://urlname.com/)`
 
 - Images can be supported in markdown.  You can display an image from your repository.
-
