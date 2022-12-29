@@ -38,7 +38,7 @@
 
 *git add filename* – tracks one file only
 
-*git add* - tracks all files in a repository
+*git add . (git add space dot)* - tracks all files in a repository
 
 *git commit -m “chanded cool thing”*  -- message to commit what you did and why
 
