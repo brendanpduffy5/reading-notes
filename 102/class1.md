@@ -1,4 +1,4 @@
-# Learning Markdown
+# Class 1 Notes: Learning Markdown
 
 - GitHub is a place where we can store and share projects and documentation with friends, coworkers or potential employers.
 

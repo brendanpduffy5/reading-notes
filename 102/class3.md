@@ -1,4 +1,4 @@
-# Class 3 Reading Notes
+# Class 3 Notes
 
 ## Git Tutorial
 
