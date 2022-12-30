@@ -20,15 +20,6 @@ Local variables are defined within a function (are LOCAL to it) and can only be 
 
 --Decrement
 
-Operator	Example	Same As
-=	x = y	x = y
-+=	x += y	x = x + y
--=	x -= y	x = x - y
-*=	x *= y	x = x * y
-/=	x /= y	x = x / y
-%=	x %= y	x = x % y
-**=	x **= y	x = x ** y
-
 ## JavaScript Comparison Operators
 Operator	Description
 
