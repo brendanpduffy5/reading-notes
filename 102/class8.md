@@ -2,8 +2,8 @@
 
 *Expression* - a valid unit of code that resolves to a value
 two types of expressions:
->+some have side effects (such as assigning values) for example x = 5
->+some purely evaluate 5 + 2
+>+ some have side effects (such as assigning values) for example x = 5
+>+ some purely evaluate 5 + 2
 
 *assignment operator* - assigns a value to its left operand based on the value of its right operand.
 
