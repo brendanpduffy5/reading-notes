@@ -5,20 +5,24 @@ These topics are important because they are the foundational structures for webs
 ## Introduction to HTML, HTML Text Fundamentals. HTML Advanced Text Formatting.
 
 *Why is it important to use semantic elements in our HTML?*
+The semantic elements help to make our code more readable to other developers, to screen readers and search engines.
 
 *How many levels of headings are there in HTML?*
+six
 
-
-*What are some uses for the <sup> and <sub> elements?*
-
+*What are some uses for the "<sup>" and <sub> elements?*
+For displaying exponents or footnotes
 
 *When using the <abbr> element, what attribute must be added to provide the full expansion of the term?*
+the global title attribute to show the full name or description for the abbreviation/acronym
 
 ## How CSS Is Structured
 
 *What are ways we can apply CSS to our HTML?*
+Inline, Internal, External
 
 *Why should we avoid using inline styles?*
+Inline styles have limited support for CSS features and can cause maintenance problems.
 
 *Review the block of code below and answer the following questions:*
 
@@ -44,7 +48,7 @@ These topics are important because they are the foundational structures for webs
 >+ Not, Does-not-equal
 
 *Describe a real world Problem you could solve with a Function.* 
-    All my kids' afterschool activities start between 4:00pm - 6:15pm but I sometimes shift.  I finally figure it out and then something changes.  I really need a better Calendar fuction app that tells me which kid goes where on which day!
+    All my kids' afterschool activities start between 4:00pm - 6:15pm but sometimes shift.  I finally figure it out and then something changes.  I really need a better calendar fuction app that tells me which kid goes where on what day!
 
 ### Making Decisions In Your Code - Conditionals
 
