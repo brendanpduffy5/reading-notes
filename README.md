@@ -1,10 +1,10 @@
-# My Reading Journal for 102
+# Reading Notes
 
-Hello, my name is Brendan and this is my reading notes journal for Software Development with Code Fellows.
+**Hello, my name is Brendan and this is collection of my reading notes for the full stack developer course with Code Fellows.  I am learning how to code and really enjoying it!** :smile:
 
 ## Table of contents
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 * [The Growth Mindset](102/growth-mindset.md)
 * [Class 1 Notes](102/class1.md)
@@ -16,7 +16,7 @@ Hello, my name is Brendan and this is my reading notes journal for Software Deve
 * [Class 7 Notes](102/class7.md)
 * [Class 8 Notes](102/class8.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 * [Class 1 Notes](201/class1.md)
 * [Class 2 Notes](201/class2.md)
@@ -33,3 +33,8 @@ Hello, my name is Brendan and this is my reading notes journal for Software Deve
 * [Class 13 Notes](201/class13.md)
 * [Class 14 Notes](201/class14.md)
 * [Class 15 Notes](201/class15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
