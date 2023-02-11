@@ -12,7 +12,7 @@ when the order of the items is not meaningful
 by nesting the list with indentations
 
 *3. When should you use an ordered list vs an unorder list in your HTML document?*
-ues an ordered list when the order is important and the meaning of the list would change if you changed the order of the items.
+use an ordered list when the order is important and the meaning of the list would change if you changed the order of the items.
 
 *4. Describe two ways you can change the numbers on list items provided by an ordered list?*
 by adjusting the type attribute to i for lowercase Roman numerals or to I for uppercase Roman numerals.
@@ -61,7 +61,7 @@ Remainder assignment	x %= f()	x = x % f()
 (10 + false) + dog = (false) + dog = false
 
 *5. Describe a real world example of when a conditional statement should be used in a JavaScript program.*
-A wake up alarm app could play music on weekedays at 7:00 AM, but be instructed to not go off until 9:00 AM on the weekends.
+A wake up alarm app could play music on weekdays at 7:00 AM, but be instructed to not go off until 9:00 AM on the weekends.
 
 *6. Give an example of when a Loop is useful in JavaScript.*
 If you wanted to have an app count down to a special day, you would have it run the loop and display a message each day until the special day.
