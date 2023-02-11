@@ -1,6 +1,6 @@
 # Reading Notes
 
-**Hello, my name is Brendan and this is collection of my reading notes for the full stack developer course with Code Fellows.  I am learning how to code and really enjoying it!** :smile:
+**Hello, my name is Brendan and this is collection of my reading notes for the full stack developer course with Code Fellows.  I am learning how to code and really enjoying it!**
 
 ## Table of contents
 
