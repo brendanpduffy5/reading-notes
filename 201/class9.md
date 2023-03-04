@@ -1,6 +1,4 @@
-# Class 9 Notes
-
-# Reading Class 09: Forms and JS Events
+# Class 9 Notes: Forms and JS Events
 
 ## HTML Forms - Your first Web Form. How To Structure A Web Form.
 
