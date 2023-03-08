@@ -1,4 +1,4 @@
-# Class 10 Notes
+# Class 10 Reading Notes
 
 ## What Went Wrong? Troubleshooting JavaScript.
 
