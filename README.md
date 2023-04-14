@@ -36,5 +36,16 @@
 
 ## Code 301 - Intermediate Software Development
 
+* [Class 1 Notes](301/class-01.md)
+* [Class 2 Notes](301/class-02.md)
+* [Class 3 Notes](301/class-03.md)
+* [Class 4 Notes](301/class-04.md)
+* [Class 5 Notes](301/class-05.md)
+* [Class 6 Notes](301/class-06.md)
+* [Class 7 Notes](301/class-07.md)
+* [Class 8 Notes](301/class-08.md)
+* [Class 9 Notes](301/class-09.md)
+* [Class 10 Notes](301/class-10.md)
+
 ## Code 401 - Advanced Software Development
 
